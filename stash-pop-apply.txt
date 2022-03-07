@@ -1,0 +1,4 @@
+Q - What is git Stash, Pop and apply. The difference between these?
+
+A - The key difference between git stash pop and apply invloves the stash pop and apply involves the stash history.When developer uses the git stash apply command , the most recently saved stash overwrites files in the current working tree but leaves the stash history alone.
+    In contrast , the pop command restores files but then deletes the applied stash .
