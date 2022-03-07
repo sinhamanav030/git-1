@@ -1,0 +1,7 @@
+Q - What is Repository? How it is different from branch?
+
+A - A repository can be explained as a bucket where our code lies.
+
+Git branches are effectively a pointer to snapshot of your changes.When you want to add a new feature or fix a bug you soawn a new branch to encapsulate your changes.
+
+
