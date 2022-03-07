@@ -1,0 +1,4 @@
+Q - What is git Squash?
+
+A - Squashing in git is way to rewrite your commit history. This action helps to clean up and simplify your commit history before sharing your commit history before sharing your work with team members.
+
